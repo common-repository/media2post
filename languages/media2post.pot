@@ -1,0 +1,79 @@
+# Copyright (C) 2018 media2post
+# This file is distributed under the same license as the media2post package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: media2post 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/media2post\n"
+"POT-Creation-Date: 2018-05-11 15:58+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Gerhard Hoogterp <info@gerhardhoogterp.nl>\n"
+"Language-Team: Author <info@gerhardhoogterp.nl>\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: media2post.php\n"
+
+#: media2post.php:64
+msgid "General info"
+msgstr ""
+
+#: media2post.php:65
+msgid "Settings"
+msgstr ""
+
+#: media2post.php:106 media2post.php:107
+msgid "Phototools"
+msgstr ""
+
+#: media2post.php:230
+msgid "Add \"create\" option to unattached media"
+msgstr ""
+
+#: media2post.php:231
+msgid "Media2post"
+msgstr ""
+
+#: media2post.php:302
+msgid "Default Post Status:"
+msgstr ""
+
+#: media2post.php:303
+msgid "Default Post Type:"
+msgstr ""
+
+#: media2post.php:306
+msgid "Default Post Format:"
+msgstr ""
+
+#: media2post.php:308
+msgid "Default Tags:"
+msgstr ""
+
+#: media2post.php:312
+msgid "Add MediaRSS:"
+msgstr ""
+
+#: media2post.php:313
+msgid "Add thumbnail to description:"
+msgstr ""
+
+#: media2post.php:315
+msgid "Copyright line for feed:"
+msgstr ""
+
+#: media2post.php:316
+msgid "\"Posted first\" line:"
+msgstr ""
+
+#: media2post.php:335
+msgid "Multiple tags should be seperated by a comma"
+msgstr ""
+
+#: media2post.php:431
+msgid "Create post with featured image"
+msgstr ""
